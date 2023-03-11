@@ -1,2 +1,5 @@
-numpy==1.19.5
-finrl==0.3.6
+jupyterlab
+setuptools==64.0.2
+wrds
+numpy
+git+https://github.com/AI4Finance-LLC/FinRL-Library.git
